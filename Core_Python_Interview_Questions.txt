@@ -1,0 +1,49 @@
+
+CORE PYTHON INTERVIEW QUESTIONS AND ANSWERS
+==========================================
+
+1. What is Python?
+Python is a high-level, interpreted, object-oriented, and dynamically typed programming language.
+
+2. What is a Decorator?
+A decorator is a function that modifies or extends the behavior of another function without changing its source code.
+
+3. What is a Ternary Operator?
+A ternary operator is a one-line conditional expression:
+value_if_true if condition else value_if_false
+
+4. What is the Precedence (Order) of Arguments in Python?
+Python follows this order:
+1. Positional arguments
+2. Default arguments
+3. *args
+4. Keyword arguments
+5. **kwargs
+
+5. What are the types of functions in Python?
+- Built-in functions
+- User-defined functions
+- Lambda (anonymous) functions
+- Recursive functions
+- Generator functions
+- Nested functions
+- Higher-order functions
+- Class/Method functions
+
+6. What is a Lambda Function?
+A lambda function is an anonymous one-line function.
+Example: lambda x: x * x
+
+7. What is a Generator Function?
+A generator function uses the yield keyword and returns values one at a time.
+
+8. Difference between List and Tuple?
+List is mutable, Tuple is immutable.
+
+9. What is Dynamic Typing?
+Variable types are decided at runtime in Python.
+
+10. What is Exception Handling?
+Handling runtime errors using try-except blocks.
+
+END OF FILE
